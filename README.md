@@ -1,8 +1,6 @@
-### Hi there 👋, my name is Chien Nguyen
+## Hi there 👋, my name is Chien Nguyen
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://miuc.org/wp-content/uploads/2020/08/6-Reasons-why-you-should-learn-Programming-1280x720.png)
-
-
 I'm living in Viet Nam and I'm 19 years old
 In 2020, I started studying in Ho Chi Minh University Technology Education, majoring in information technology.
 In the past, I'm a boy who really like play game and football, i meant a real football game.
