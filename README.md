@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Chien Nguyen
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)
+![I am GitHub Readme Generator's creator](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1e94d557441295.59d5dfd469876.gif)
 
 I'm living in Viet Nam and I'm 19 years old
 In 2020, I started studying in Ho Chi Minh University Technology Education, majoring in information technology.
